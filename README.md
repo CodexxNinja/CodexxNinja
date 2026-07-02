@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Ultra-Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:00F0FF&height=280&section=header&text=Hey%20I'm%20Varad%20Paradkar&fontSize=50&fontAlignY=35&animation=glitch&fontColor=ffffff&desc=AIML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-<!-- Neon Typing Effect -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=900&lines=Building+AI-Powered+EdTech+Solutions;Deep+Learning+%26+Computer+Vision+Explorer;Full-Stack+Developer+(React+%7C+Flask+%7C+Mongo);Hackathon+Enthusiast+%26+Problem+Solver;Automating+the+Future+with+Machine+Learning" alt="Typing SVG" />
 </a>
 
-<!-- Animated Badges Row -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodexxNinja&label=PROFILE+VIEWS&color=0891b2&style=for-the-badge&animation=pulse" alt="Profile Views" />
   <a href="https://github.com/CodexxNinja?tab=followers">
@@ -19,7 +16,6 @@
   </a>
 </p>
 
-<!-- Social Connect (Glowing Shields) -->
 <p align="center">
   <a href="mailto:paradkarvarad@gmail.com">
     <img src="https://img.shields.io/badge/Connect-paradkarvarad@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -29,7 +25,6 @@
   </a>
 </p>
 
-<!-- Animated Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 
 </div>
@@ -44,15 +39,12 @@
     <td width="65%">
       <p>I am an innovative <b>Computer Science & Engineering (AI & ML)</b> student at the <i>Gharda Institute of Technology</i>, driven by a passion for bridging the gap between academic knowledge and industry readiness through code.</p>
       <ul>
-        <li>Currently in <b>Semester VI</b>, focusing on advanced AI/ML architectures and full-stack development.</li>
+        <li>Currently in <b>Last Year</b>, focusing on AI/ML and full-stack development.</li>
         <li>Building highly interactive platforms using <b>React.js, Flask, and MongoDB</b>.</li>
-        <li>Exploring industrial safety automation, EdTech optimization, and smart operational systems.</li>
-        <li>Active Hackathon participant, building systems for visitor pre-authorization and safety compliance.</li>
-        <li><b>Goal:</b> To engineer impactful AI products and become an industry-leading ML Engineer.</li>
+        <li>Developing Web systems and Machine Learning Models </li>
       </ul>
     </td>
     <td width="35%" align="center">
-      <!-- Animated Hologram GIF -->
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM0NTY3ODkwMTIzNDU2Nzg5MDEyMzQ1Njc4OTAxMjM0NTY3ODkwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Futuristic AI Hologram GIF"/>
     </td>
   </tr>
@@ -70,7 +62,6 @@
 <table>
   <tr>
     <td width="25%" align="center">
-      <!-- Rotating Code GIF -->
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" alt="Tech Gear GIF"/>
     </td>
     <td width="75%">
@@ -120,22 +111,6 @@
       <p><b>Stack:</b> Python • OpenCV • Machine Learning</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h3>AI Resume Analyzer</h3>
-      <p><i>Intelligent resume screening & ATS prediction</i></p>
-      <a href="https://github.com/CodexxNinja/AI-Resume-Analyzer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodexxNinja&repo=AI-Resume-Analyzer&theme=tokyonight&show_icons=true" alt="Resume Analyzer"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3>Face Recognition System</h3>
-      <p><i>Real-time facial detection system</i></p>
-      <a href="https://github.com/CodexxNinja/Face-Recognition">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodexxNinja&repo=Face-Recognition&theme=tokyonight&show_icons=true" alt="Face Recognition"/>
-      </a>
-    </td>
-  </tr>
 </table>
 </div>
 
@@ -149,40 +124,21 @@
 
 <div align="center">
   
-  <!-- Dynamic Activity Graph with Animation -->
   <a href="https://github.com/CodexxNinja">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodexxNinja&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=38BDF8&point=FFFFFF&area=true" alt="Contribution Graph"/>
   </a>
   
   <br><br>
 
-  <!-- Side by side detailed stats -->
-  <a href="https://github.com/CodexxNinja">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api?username=CodexxNinja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&ring_color=00F0FF" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/CodexxNinja">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodexxNinja&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
-  </a>
-
-  <br><br>
-
-  <!-- Streak & Trophies -->
   <a href="https://github.com/CodexxNinja">
     <img src="https://streak-stats.demolab.com?user=CodexxNinja&theme=tokyonight&hide_border=true&ring=00F0FF&fire=38BDF8" alt="GitHub Streak"/>
   </a>
   
-  <br><br>
-  
-  <!-- Animated Trophies -->
-  <a href="https://github.com/CodexxNinja">
-    <img src="https://github-profile-trophy.vercel.app/?username=CodexxNinja&theme=dracula&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies"/>
-  </a>
-
 </div>
 
 <br>
 
-<!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:38BDF8&height=120&section=footer" width="100%"/>
+  <p><b>Never Give Up!</b></p>
 </div>
