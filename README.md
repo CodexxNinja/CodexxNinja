@@ -9,10 +9,7 @@
   <a href="https://github.com/CodexxNinja">
     <img src="https://img.shields.io/github/stars/CodexxNinja?style=for-the-badge&color=38BDF8&logo=apachespark" alt="Stars" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodexxNinja&style=for-the-badge&color=38BDF8" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CodexxNinja&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
