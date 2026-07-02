@@ -44,11 +44,9 @@
     <td width="65%">
       <p>I am an innovative <b>Computer Science & Engineering (AI & ML)</b> student at the <i>Gharda Institute of Technology</i>, driven by a passion for bridging the gap between academic knowledge and industry readiness through code.</p>
       <ul>
-        <li>🎓 Currently in <b>Semester VI</b>, focusing on advanced AI/ML architectures and full-stack development.</li>
-        <li>🌐 Building highly interactive platforms using <b>React.js, Flask, and MongoDB</b>.</li>
-        <li>💡 Exploring industrial safety automation, EdTech optimization, and smart operational systems.</li>
-        <li>🏆 Active Hackathon participant, building systems for visitor pre-authorization and safety compliance.</li>
-        <li>🎯 <b>Goal:</b> To engineer impactful AI products and become an industry-leading ML Engineer.</li>
+        <li> Currently in <b>Semester VI</b>, focusing on AI/ML and full-stack development.</li>
+        <li> Building highly interactive platforms using <b>React.js, Flask, and MongoDB</b>.</li>
+        <li> Currently Developing Websites and ML Models.</li>
       </ul>
     </td>
     <td width="35%" align="center">
