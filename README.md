@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Ultra-Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:00F0FF&height=280&section=header&text=Hey%20I'm%20&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Varad%20Paradkar%20|%20AIML Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:00F0FF&height=280&section=header&text=Hey%20I'm%20Varad%20Paradkar&fontSize=50&fontAlignY=35&animation=glitch&fontColor=ffffff&desc=AIML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Neon Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=900&lines=⚡+Building+AI-Powered+EdTech+Solutions;🧠+Deep+Learning+%26+Computer+Vision+Explorer;🛠️+Full-Stack+Developer+(React+%7C+Flask+%7C+Mongo);🚀+Hackathon+Enthusiast+%26+Problem+Solver;🤖+Automating+the+Future+with+Machine+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=900&lines=Building+AI-Powered+EdTech+Solutions;Deep+Learning+%26+Computer+Vision+Explorer;Full-Stack+Developer+(React+%7C+Flask+%7C+Mongo);Hackathon+Enthusiast+%26+Problem+Solver;Automating+the+Future+with+Machine+Learning" alt="Typing SVG" />
 </a>
 
 <!-- Animated Badges Row -->
@@ -36,7 +36,7 @@
 
 <br>
 
-## 💫 About Me
+## About Me
 
 <div align="center">
 <table>
@@ -44,9 +44,11 @@
     <td width="65%">
       <p>I am an innovative <b>Computer Science & Engineering (AI & ML)</b> student at the <i>Gharda Institute of Technology</i>, driven by a passion for bridging the gap between academic knowledge and industry readiness through code.</p>
       <ul>
-        <li> Currently in <b>Semester VI</b>, focusing on AI/ML and full-stack development.</li>
-        <li> Building highly interactive platforms using <b>React.js, Flask, and MongoDB</b>.</li>
-        <li> Currently Developing Websites and ML Models.</li>
+        <li>Currently in <b>Semester VI</b>, focusing on advanced AI/ML architectures and full-stack development.</li>
+        <li>Building highly interactive platforms using <b>React.js, Flask, and MongoDB</b>.</li>
+        <li>Exploring industrial safety automation, EdTech optimization, and smart operational systems.</li>
+        <li>Active Hackathon participant, building systems for visitor pre-authorization and safety compliance.</li>
+        <li><b>Goal:</b> To engineer impactful AI products and become an industry-leading ML Engineer.</li>
       </ul>
     </td>
     <td width="35%" align="center">
@@ -63,7 +65,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 </div>
 
-## 💻 Tech Stack & Tools
+## Tech Stack & Tools
 
 <table>
   <tr>
@@ -100,19 +102,19 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>🌐 SkillFuture.AI</h3>
+      <h3>SkillFuture.AI</h3>
       <p><i>AI-powered EdTech platform for industry readiness</i></p>
       <p>Features a strict, seamless flow: <b>Login ➔ Onboarding ➔ Assessment ➔ Dashboard</b> with persistent MongoDB user states for instant dashboard access upon return.</p>
       <p><b>Stack:</b> React.js • Flask • MongoDB • AI Analysis</p>
     </td>
     <td width="50%" align="center">
-      <h3>🛡️ Smart Visitor Pre-Auth System</h3>
+      <h3>Smart Visitor Pre-Auth System</h3>
       <p><i>Hackathon-winning industrial safety protocol</i></p>
       <p>An automated operational bottleneck solver that manages visitor access and ensures compliance with hazard/PPE safety standards.</p>
       <p><b>Stack:</b> Python • OpenCV • Machine Learning</p>
@@ -120,14 +122,14 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🧠 AI Resume Analyzer</h3>
+      <h3>AI Resume Analyzer</h3>
       <p><i>Intelligent resume screening & ATS prediction</i></p>
       <a href="https://github.com/CodexxNinja/AI-Resume-Analyzer">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodexxNinja&repo=AI-Resume-Analyzer&theme=tokyonight&show_icons=true" alt="Resume Analyzer"/>
       </a>
     </td>
     <td width="50%" align="center">
-      <h3>👁️ Face Recognition System</h3>
+      <h3>Face Recognition System</h3>
       <p><i>Real-time facial detection system</i></p>
       <a href="https://github.com/CodexxNinja/Face-Recognition">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodexxNinja&repo=Face-Recognition&theme=tokyonight&show_icons=true" alt="Face Recognition"/>
@@ -143,7 +145,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 </div>
 
-## 📈 GitHub Analytics & Activity
+## GitHub Analytics & Activity
 
 <div align="center">
   
@@ -183,5 +185,4 @@
 <!-- Animated Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:38BDF8&height=120&section=footer" width="100%"/>
-  <p><kbd>print("Keep Coding, Keep Creating!")</kbd></p>
 </div>
