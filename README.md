@@ -105,7 +105,7 @@
     </td>
     <td width="50%" align="center">
       <h3>Smart Visitor Pre-Auth System</h3>
-      <p><i>Hackathon-winning industrial safety protocol</i></p>
+      <p><i>industrial safety protocol</i></p>
       <p>An automated operational bottleneck solver that manages visitor access and ensures compliance with hazard/PPE safety standards.</p>
       <p><b>Stack:</b> Python • OpenCV • Machine Learning</p>
     </td>
