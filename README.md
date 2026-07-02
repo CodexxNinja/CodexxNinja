@@ -1,4 +1,4 @@
-# Hi there, I'm Varad Paradkar 👋
+# Hey, I'm Varad Paradkar 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Student;Python+Developer;Data+Science+Enthusiast;Building+Real-World+AI+Projects;Always+Learning+New+Technologies" />
