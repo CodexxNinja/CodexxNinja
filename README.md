@@ -12,6 +12,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodexxNinja&style=for-the-badge&color=38BDF8" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="mailto:paradkarvarad@gmail.com">
     <img src="https://img.shields.io/badge/Connect-paradkarvarad@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
