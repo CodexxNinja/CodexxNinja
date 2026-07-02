@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Ultra-Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:00F0FF&height=280&section=header&text=Welcome%20To%20My%20Universe%20🚀&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Varad%20Paradkar%20|%20AI%20&%20ML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:00F0FF&height=280&section=header&text=Hey%20I'm%20&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Varad%20Paradkar%20|%20AI%20&%20ML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Neon Typing Effect -->
 <a href="https://git.io/typing-svg">
