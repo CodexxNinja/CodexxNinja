@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Varad Paradkar
+# Hey, I'm Varad Paradkar
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=900&lines=Artificial+Intelligence+Student;Machine+Learning+Engineer;Python+Developer;Computer+Vision+Enthusiast;Data+Science+Explorer;Open+Source+Contributor;Always+Learning+New+Things" />
 
