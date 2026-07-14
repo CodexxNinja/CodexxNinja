@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=900&lines=Learning+AIML;Machine+Learning+%26+Computer+Vision+Explorer;Full-Stack+Developer+(React+%7C+Flask+%7C+Mongo);Tech+Enthusiast+%26+Problem+Solver;Automating+the+Future+with+Machine+Learning" alt="Typing SVG" />
 </a>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodexxNinja&style=social&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CodexxNinja&style=flat-square&color=38BDF8&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
