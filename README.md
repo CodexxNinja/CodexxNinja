@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 
 </div>
@@ -170,7 +170,7 @@
 </div>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">
+>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:38BDF8&height=120&section=footer" width="100%"/>
   <p><b>Never Give Up!</b></p>
 </div>
