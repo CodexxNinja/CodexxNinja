@@ -166,11 +166,9 @@
   <a href="https://github.com/CodexxNinja">
     <img src="https://streak-stats.demolab.com?user=CodexxNinja&theme=tokyonight&hide_border=true&ring=00F0FF&fire=38BDF8" alt="GitHub Streak"/>
   </a>
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">
+
 </div>
-
-<br>
-
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="400">
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:38BDF8&height=120&section=footer" width="100%"/>
   <p><b>Never Give Up!</b></p>
