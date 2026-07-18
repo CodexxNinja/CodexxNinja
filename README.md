@@ -164,8 +164,8 @@
   <br><br>
 
   <a href="https://github.com/CodexxNinja">
-    <img src="https://streak-stats.demolab.com?user=CodexxNinja&theme=tokyonight&hide_border=true&ring=00F0FF&fire=38BDF8" alt="GitHub Streak"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=CodexxNinja&theme=tokyonight" alt="GitHub Streak"/>
+</a>
 
 </div>
 
