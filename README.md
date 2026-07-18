@@ -170,7 +170,6 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:38BDF8&height=120&section=footer" width="100%"/>
   <p><b>Never Give Up!</b></p>
 </div>
