@@ -56,13 +56,12 @@
 
 <td width="25%" align="center">
 
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="180"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 
 </td>
 
 <td width="75%" align="center">
-
-<h2 align="center">Tech Stack</h2>
 
 <h3 align="center">Core Technologies</h3>
 
