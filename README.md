@@ -51,7 +51,7 @@
 </div>
 
 ## Tech Stack & Tools
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <table align="center">
 <tr>
@@ -112,6 +112,7 @@
 
 </tr>
 </table>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br>
 
 <p align="center">
