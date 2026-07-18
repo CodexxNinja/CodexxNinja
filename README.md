@@ -51,174 +51,315 @@
 </div>
 
 ## Tech Stack & Tools
-<!-- =========================================== -->
-<!--               TECH STACK                    -->
-<!-- =========================================== -->
-
-<h2 align="center">⚡ Tech Stack & Tools ⚡</h2>
+<div align="center">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="180"/>
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="180"/>
 </p>
 
+## Tech Stack & Tools
+
 <br>
+
+<!-- ==================== LANGUAGES ==================== -->
+<h3>Languages</h3>
 
 <table align="center">
-
-<tr>
-
-<td valign="top" width="50%">
-
-### 💻 Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,php,r" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=html,css,md" />
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/windowsterminal/4D4D4D" height="48"/>
-
-</p>
-
-</td>
-
-<td valign="top" width="50%">
-
-### ⚛ Frameworks & Libraries
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,django" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=spring,bootstrap,vite,opencv,anaconda,wordpress" />
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/chartdotjs/FF6384" height="48"/>
-
-<img src="https://cdn.simpleicons.org/jinja/B41717" height="48"/>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
-
-### 🗄 Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,dynamodb" />
-
-</p>
-
-<br>
-
-### ☁ Hosting / SaaS
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,netlify,vercel" />
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/render/46E3B7" height="48"/>
-
-</p>
-
-</td>
-
-<td valign="top">
-
-### 🤖 AI / Data Science
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="52"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="52"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="52"/>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="52"/>
-
-</p>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🔧 Developer Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,gradle" />
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48"/>
-
-</p>
-
-</td>
-
-<td>
-
-### 🎮 Gaming & Graphics
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="52"/>
-
-<img src="https://cdn.simpleicons.org/unrealengine/ffffff" height="48"/>
-
-<img src="https://cdn.simpleicons.org/nvidia/76B900" height="48"/>
-
-<img src="https://cdn.simpleicons.org/steam/ffffff" height="48"/>
-
-<br><br>
-
-<img src="https://cdn.simpleicons.org/xbox/107C10" height="48"/>
-
-<img src="https://cdn.simpleicons.org/riotgames/D32936" height="48"/>
-
-<img src="https://cdn.simpleicons.org/epicgames/ffffff" height="48"/>
-
-<img src="https://cdn.simpleicons.org/ubisoft/ffffff" height="48"/>
-
-</p>
-
-</td>
-
-</tr>
-
+  <tr>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="C"><br>
+      <sub>C</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"><br>
+      <sub>C++</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"><br>
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"><br>
+      <sub>CSS3</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"><br>
+      <sub>Java</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"><br>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" alt="PHP"><br>
+      <sub>PHP</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"><br>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" alt="R"><br>
+      <sub>R</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="45" alt="Markdown"><br>
+      <sub>Markdown</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100" style="border: none;" colspan="5">
+      <img src="https://api.iconify.design/logos:windows-terminal.svg" width="45" alt="Windows Terminal"><br>
+      <sub>Windows Terminal</sub>
+    </td>
+  </tr>
 </table>
 
+<br><hr style="border: 0; height: 1px; background: #333; opacity: 0.1;"><br>
+
+<!-- ==================== FRAMEWORKS, PLATFORMS & LIBRARIES ==================== -->
+<h3>Frameworks, Platforms & Libraries</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"><br>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js"><br>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" alt="Express.js"><br>
+      <sub>Express.js</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" alt="Flask"><br>
+      <sub>Flask</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" alt="FastAPI"><br>
+      <sub>FastAPI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" alt="Django"><br>
+      <sub>Django</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" alt="Spring"><br>
+      <sub>Spring</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" alt="Bootstrap"><br>
+      <sub>Bootstrap</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" alt="Vite"><br>
+      <sub>Vite</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" alt="OpenCV"><br>
+      <sub>OpenCV</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="45" alt="Anaconda"><br>
+      <sub>Anaconda</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="45" alt="WordPress"><br>
+      <sub>WordPress</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://api.iconify.design/carbon:chart-line.svg" width="45" alt="Chart.js"><br>
+      <sub>Chart.js</sub>
+    </td>
+    <td align="center" width="100" style="border: none;" colspan="2">
+      <img src="https://api.iconify.design/logos:jinja-icon.svg" width="45" alt="Jinja"><br>
+      <sub>Jinja</sub>
+    </td>
+  </tr>
+</table>
+
+<br><hr style="border: 0; height: 1px; background: #333; opacity: 0.1;"><br>
+
+<!-- ==================== DATABASES ==================== -->
+<h3>Databases</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"><br>
+      <sub>MongoDB</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"><br>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" alt="SQLite"><br>
+      <sub>SQLite</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://api.iconify.design/logos:aws-dynamodb.svg" width="45" alt="DynamoDB"><br>
+      <sub>DynamoDB</sub>
+    </td>
+  </tr>
+</table>
+
+<br><hr style="border: 0; height: 1px; background: #333; opacity: 0.1;"><br>
+
+<!-- ==================== MACHINE LEARNING & DATA SCIENCE ==================== -->
+<h3>Machine Learning & Data Science</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" alt="NumPy"><br>
+      <sub>NumPy</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" alt="Pandas"><br>
+      <sub>Pandas</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" alt="Matplotlib"><br>
+      <sub>Matplotlib</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" alt="Scikit-learn"><br>
+      <sub>Scikit-learn</sub>
+    </td>
+  </tr>
+</table>
+
+<br><hr style="border: 0; height: 1px; background: #333; opacity: 0.1;"><br>
+
+<!-- ==================== HOSTING / CLOUD ==================== -->
+<h3>Hosting / Cloud</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" width="45" alt="AWS"><br>
+      <sub>AWS</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://api.iconify.design/logos:netlify-icon.svg" width="45" alt="Netlify"><br>
+      <sub>Netlify</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://api.iconify.design/logos:render-icon.svg" width="45" alt="Render"><br>
+      <sub>Render</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://api.iconify.design/logos:vercel-icon.svg" width="45" alt="Vercel"><br>
+      <sub>Vercel</sub>
+    </td>
+  </tr>
+</table>
+
+<br><hr style="border: 0; height: 1px; background: #333; opacity: 0.1;"><br>
+
+<!-- ==================== VERSION CONTROL ==================== -->
+<h3>Version Control</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"><br>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"><br>
+      <sub>GitHub</sub>
+    </td>
+  </tr>
+</table>
+
+<br><hr style="border: 0; height: 1px; background: #333; opacity: 0.1;"><br>
+
+<!-- ==================== DEVELOPER TOOLS ==================== -->
+<h3>Developer Tools</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"><br>
+      <sub>Docker</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="45" alt="Gradle"><br>
+      <sub>Gradle</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://api.iconify.design/logos:postman-icon.svg" width="45" alt="Postman"><br>
+      <sub>Postman</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://api.iconify.design/logos:microsoft-powerbi.svg" width="45" alt="Power BI"><br>
+      <sub>Power BI</sub>
+    </td>
+  </tr>
+</table>
+
+<br><hr style="border: 0; height: 1px; background: #333; opacity: 0.1;"><br>
+
+<!-- ==================== GAMING & GRAPHICS ==================== -->
+<h3>Gaming & Graphics</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://api.iconify.design/logos:nvidia.svg" width="45" alt="NVIDIA"><br>
+      <sub>NVIDIA</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="45" alt="Unity"><br>
+      <sub>Unity</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="45" alt="Unreal Engine"><br>
+      <sub>Unreal Engine</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://api.iconify.design/mdi:steam.svg" style="color: #1b2838;" width="45" alt="Steam"><br>
+      <sub>Steam</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://api.iconify.design/logos:epic-games.svg" width="45" alt="Epic Games"><br>
+      <sub>Epic Games</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://api.iconify.design/simple-icons:riotgames.svg" style="color: #d13639;" width="45" alt="Riot Games"><br>
+      <sub>Riot Games</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://api.iconify.design/simple-icons:ubisoft.svg" style="color: #000000;" width="45" alt="Ubisoft"><br>
+      <sub>Ubisoft</sub>
+    </td>
+    <td align="center" width="100" style="border: none;">
+      <img src="https://api.iconify.design/logos:xbox.svg" width="45" alt="Xbox"><br>
+      <sub>Xbox</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
 <br>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8B5CF6,100:38BDF8&section=footer"/>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,38BDF8&height=120&section=footer"/>
-</p>
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
