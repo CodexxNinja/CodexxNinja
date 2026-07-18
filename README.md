@@ -52,114 +52,167 @@
 
 ## Tech Stack & Tools
 
-<table align="center">
+<!-- ===================== TECH STACK ===================== -->
+
+<h2 align="center">⚡ Tech Stack & Tools ⚡</h2>
+
+<p align="center">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="180"/>
+</p>
+
+<br>
+
+<table align="center" width="100%">
 <tr>
+<td align="center">
 
-<td width="25%" align="center">
+### Languages
 
-<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="320" alt="Coding GIF">
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=java" height="55"/>
+<img src="https://skillicons.dev/icons?i=c" height="55"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+<img src="https://skillicons.dev/icons?i=js" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=php" height="55"/>
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+<img src="https://skillicons.dev/icons?i=md" height="55"/>
+<img src="https://skillicons.dev/icons?i=r" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=windows" height="55"/>
+
+</p>
+
+---
+
+### Frameworks • Platforms • Libraries
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+<img src="https://skillicons.dev/icons?i=express" height="55"/>
+<img src="https://skillicons.dev/icons?i=flask" height="55"/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=django" height="55"/>
+<img src="https://skillicons.dev/icons?i=spring" height="55"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="55"/>
+<img src="https://skillicons.dev/icons?i=vite" height="55"/>
+<img src="https://skillicons.dev/icons?i=opencv" height="55"/>
+
+<img src="https://skillicons.dev/icons?i=anaconda" height="55"/>
+<img src="https://skillicons.dev/icons?i=wordpress" height="55"/>
+
+<img src="https://cdn.simpleicons.org/chartdotjs" height="50"/>
+<img src="https://cdn.simpleicons.org/jinja" height="50"/>
+
+</p>
+
+---
+
+### Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="55"/>
+<img src="https://skillicons.dev/icons?i=dynamodb" height="55"/>
+
+</p>
+
+---
+
+### ML • Data Science
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="52"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="52"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="52"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="52"/>
+
+</p>
+
+---
+
+### Hosting / SaaS
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws" height="55"/>
+<img src="https://skillicons.dev/icons?i=netlify" height="55"/>
+<img src="https://skillicons.dev/icons?i=vercel" height="55"/>
+
+<img src="https://cdn.simpleicons.org/render" height="50"/>
+
+</p>
+
+---
+
+### Version Control
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+
+</p>
+
+---
+
+### Developer Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker" height="55"/>
+<img src="https://skillicons.dev/icons?i=gradle" height="55"/>
+<img src="https://skillicons.dev/icons?i=postman" height="55"/>
+
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="50"/>
+
+</p>
+
+---
+
+### Gaming & Graphics
+
+<p align="center">
+
+<img src="https://cdn.simpleicons.org/nvidia/76B900" height="50"/>
+
+<img src="https://cdn.simpleicons.org/unity" height="50"/>
+
+<img src="https://cdn.simpleicons.org/unrealengine" height="50"/>
+
+<img src="https://cdn.simpleicons.org/xbox/107C10" height="50"/>
+
+<img src="https://cdn.simpleicons.org/steam" height="50"/>
+
+<img src="https://cdn.simpleicons.org/epicgames" height="50"/>
+
+<img src="https://cdn.simpleicons.org/riotgames/D32936" height="50"/>
+
+<img src="https://cdn.simpleicons.org/ubisoft" height="50"/>
+
+</p>
 
 </td>
-
-<td width="75%" align="center">
-
-<h3 align="center">Languages</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,php,r,html,css,md&theme=light"/>
-
-</p>
-
-<h3 align="center">Frameworks • Platforms • Libraries</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi,django,spring,bootstrap,vite,opencv&theme=light"/><br><br>
-
-<img src="https://skillicons.dev/icons?i=anaconda,wordpress&theme=light"/>
-
-</p>
-
-<h3 align="center">Databases</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,dynamodb&theme=light"/>
-
-</p>
-
-<h3 align="center">ML • Data Science</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=light"/><br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="48"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48"/>
-
-</p>
-
-<h3 align="center">Hosting / Cloud</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,netlify,vercel,render&theme=light"/>
-
-</p>
-
-<h3 align="center">Version Control & CI/CD</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker&theme=light"/>
-
-</p>
-
-<h3 align="center">Tools</h3>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postman,gradle&theme=light"/>
-
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48"/>
-
-<img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="48"/>
-
-<img src="https://cdn.simpleicons.org/jinja/B41717" width="48"/>
-
-<img src="https://cdn.simpleicons.org/windowsterminal/4D4D4D" width="48"/>
-
-</p>
-
-<h3 align="center">Gaming & Graphics</h3>
-
-<p align="center">
-
-<img src="https://cdn.simpleicons.org/nvidia/76B900" width="48"/>
-
-<img src="https://cdn.simpleicons.org/unity/000000" width="48"/>
-
-<img src="https://cdn.simpleicons.org/unrealengine/0E1128" width="48"/>
-
-<img src="https://cdn.simpleicons.org/xbox/107C10" width="48"/>
-
-<img src="https://cdn.simpleicons.org/steam/000000" width="48"/>
-
-<img src="https://cdn.simpleicons.org/epicgames/313131" width="48"/>
-
-<img src="https://cdn.simpleicons.org/riotgames/D32936" width="48"/>
-
-<img src="https://cdn.simpleicons.org/ubisoft/000000" width="48"/>
-
-</p>
-
-</td>
-
 </tr>
 </table>
+
+<br>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,38BDF8&height=120&section=footer"/>
+</p>
 <br>
 
 <div align="center">
