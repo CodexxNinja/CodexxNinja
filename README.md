@@ -1,190 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:00F0FF&height=280&section=header&text=Hey%20I'm%20Varad%20Paradkar&fontSize=50&fontAlignY=35&animation=glitch&fontColor=ffffff&desc=AIML%20Engineer&descAlignY=55&descSize=20" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:00F0FF&height=280&section=header&text=Hey%20I'm%20Varad%20Paradkar&fontSize=50&fontAlignY=35&animation=glitch&fontColor=ffffff&desc=AIML%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=900&lines=Learning+AIML;Machine+Learning+%26+Computer+Vision+Explorer;Full-Stack+Developer+(React+%7C+Flask+%7C+Mongo);Tech+Enthusiast+%26+Problem+Solver;Automating+the+Future+with+Machine+Learning"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=900&lines=Learning+AIML;Machine+Learning+%26+Computer+Vision+Explorer;Full-Stack+Developer+(React+%7C+Flask+%7C+Mongo);Tech+Enthusiast+%26+Problem+Solver;Automating+the+Future+with+Machine+Learning" alt="Typing SVG" />
 </a>
-
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=CodexxNinja&style=social&color=8B5CF6&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=CodexxNinja&style=social&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views" />
+<br><br>
+
 </p>
 
 <p align="center">
   <a href="mailto:paradkarvarad@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Connect-paradkarvarad@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-    />
+    <img src="https://img.shields.io/badge/Connect-paradkarvarad@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/varad-paradkar-503643329/">
-    <img
-      src="https://img.shields.io/badge/Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/Network-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"
-    width="400"
-    alt="Coding Animation"
-  />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%" alt="Divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4" width="100%"/>
 
 </div>
-
-<svg width="800" height="220" viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Effort-based routing with automatic failover">
-  <defs>
-    <path id="trip" d="M170 108 L330 108 L360 64 L360 118 L570 118 L632 118" />
-    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
-      <path d="M0 0 L10 5 L0 10 Z" fill="#8B949E" fill-opacity="0.5" />
-    </marker>
-  </defs>
-
-  <style>
-    .lbl {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    }
-    svg {
-      color: #1f2328;
-    }
-    @media (prefers-color-scheme: dark) {
-      svg {
-        color: #e6edf3;
-      }
-    }
-  </style>
-
-  <!-- Guide Connectors -->
-  <g stroke="#8B949E" stroke-opacity="0.35" stroke-width="1.5" fill="none">
-    <path d="M170 108 L330 108" />
-    <path d="M330 108 L360 64" />
-    <path d="M330 108 L360 118" />
-    <path d="M330 108 L360 175" />
-    <path d="M570 118 L628 118" marker-end="url(#arrow)" />
-  </g>
-
-  <!-- Request -->
-  <rect x="30" y="86" width="140" height="44" rx="10" fill="none" stroke="currentColor" stroke-width="1.8" />
-  <text x="100" y="112" text-anchor="middle" class="lbl" font-size="14" font-weight="600" fill="currentColor">
-    keychain-high
-  </text>
-
-  <!-- Models -->
-  <g class="lbl" font-size="14">
-
-    <!-- Gemini -->
-    <rect x="360" y="45" width="210" height="38" rx="9" fill="none" stroke="#8B949E" stroke-opacity="0.5" stroke-width="1.5" />
-    <rect x="360" y="45" width="210" height="38" rx="9" fill="none" stroke="#F87171" stroke-width="1.8" opacity="0">
-      <animate attributeName="opacity" dur="5s" repeatCount="indefinite"
-        values="0;0;1;1;0;0"
-        keyTimes="0;0.25;0.28;0.5;0.56;1" />
-    </rect>
-
-    <text x="420" y="69" text-anchor="middle" fill="currentColor">gemini-2.5-pro</text>
-
-    <text x="548" y="69" text-anchor="middle" font-size="12" font-weight="700" fill="#F87171" opacity="0">
-      429
-      <animate attributeName="opacity" dur="5s" repeatCount="indefinite"
-        values="0;0;1;1;0;0"
-        keyTimes="0;0.25;0.28;0.5;0.56;1" />
-    </text>
-
-    <!-- DeepSeek -->
-    <rect x="360" y="99" width="210" height="38" rx="9" fill="none" stroke="#8B949E" stroke-opacity="0.5" stroke-width="1.5" />
-    <rect x="360" y="99" width="210" height="38" rx="9" fill="none" stroke="#34D399" stroke-width="1.8" opacity="0">
-      <animate attributeName="opacity" dur="5s" repeatCount="indefinite"
-        values="0;0;1;1;0"
-        keyTimes="0;0.52;0.56;0.95;1" />
-    </rect>
-
-    <text x="420" y="123" text-anchor="middle" fill="currentColor">deepseek-r1</text>
-
-    <text x="548" y="124" text-anchor="middle" font-size="15" font-weight="700" fill="#34D399" opacity="0">
-      ✓
-      <animate attributeName="opacity" dur="5s" repeatCount="indefinite"
-        values="0;0;1;1;0"
-        keyTimes="0;0.52;0.56;0.95;1" />
-    </text>
-
-    <!-- Mistral -->
-    <rect x="360" y="156" width="210" height="38" rx="9" fill="none" stroke="#8B949E" stroke-opacity="0.28" stroke-width="1.5" />
-    <text x="420" y="180" text-anchor="middle" fill="#8B949E" fill-opacity="0.55">
-      mistral-large
-    </text>
-    <text x="548" y="180" text-anchor="middle" font-size="11" fill="#8B949E" fill-opacity="0.55">
-      idle
-    </text>
-
-  </g>
-
-  <!-- Response -->
-  <rect x="632" y="96" width="130" height="44" rx="10" fill="none" stroke="#34D399" stroke-width="1.8" opacity="0">
-    <animate attributeName="opacity" dur="5s" repeatCount="indefinite"
-      values="0;0;1;0"
-      keyTimes="0;0.9;0.95;1" />
-  </rect>
-
-  <text x="697" y="123" text-anchor="middle" class="lbl" font-size="14" font-weight="700" fill="#34D399" opacity="0">
-    200 OK
-    <animate attributeName="opacity" dur="5s" repeatCount="indefinite"
-      values="0;0;1;0"
-      keyTimes="0;0.9;0.95;1" />
-  </text>
-
-  <!-- Animated Token -->
-  <circle r="5" fill="currentColor">
-    <animateMotion
-      dur="5s"
-      repeatCount="indefinite"
-      calcMode="linear"
-      keyPoints="0;0.395;0.395;0.496;0.496;0.885;1"
-      keyTimes="0;0.25;0.40;0.52;0.68;0.90;1">
-      <mpath href="#trip" />
-    </animateMotion>
-  </circle>
-</svg>
 
 <br>
 
 ## About Me
 
 <div align="center">
-
 <table>
   <tr>
-    <td width="65%" valign="top">
-      <p>
-        I am an innovative <b>Computer Science &amp; Engineering (AI &amp; ML)</b> student at the
-        <i>Gharda Institute of Technology</i>, driven by a passion for bridging the gap between
-        academic knowledge and industry readiness through code.
-      </p>
-
-- Currently in <b>Last Year</b>, focusing on AI/ML and full-stack development.
-- Building highly interactive platforms using <b>React.js, Flask, and MongoDB</b>.
-- Developing Web Systems and Machine Learning Models.
-
-</td>
-
-<td width="35%" align="center" valign="top">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="AI Hologram"/>
-
-</td>
-</tr>
+    <td width="65%">
+      <p>I am an innovative <b>Computer Science & Engineering (AI & ML)</b> student at the <i>Gharda Institute of Technology</i>, driven by a passion for bridging the gap between academic knowledge and industry readiness through code.</p>
+      <ul>
+        <li>Currently in <b>Last Year</b>, focusing on AI/ML and full-stack development.</li>
+        <li>Building highly interactive platforms using <b>React.js, Flask, and MongoDB</b>.</li>
+        <li>Developing Web systems and Machine Learning Models </li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM0NTY3ODkwMTIzNDU2Nzg5MDEyMzQ1Njc4OTAxMjM0NTY3ODkwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Futuristic AI Hologram GIF"/>
+    </td>
+  </tr>
 </table>
-
 </div>
+
 <br>
 
 <div align="center">
